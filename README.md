@@ -1,7 +1,4 @@
-
-# Hi 👋, I'm UWillno
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uwillno&label=Profile%20views&color=23d1ae&style=for-the-badge" alt="uwillno" /> </p>
+![](https://komarev.com/ghpvc/?username=uwillno&label=Profile%20views&color=23d1ae&style=for-the-badge)
 
 ![](profile-summary-card-output/vue/0-profile-details.svg)
 [![](profile-summary-card-output/vue/1-repos-per-language.svg)]()[![](profile-summary-card-output/vue/2-most-commit-language.svg)]()
